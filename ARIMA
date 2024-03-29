@@ -1,4 +1,4 @@
-# Time_Series_Regression
+# Time_Series_Regression in R
 Mean temperature for countries by year 1901-2022 data from Kaggle 
 https://www.kaggle.com/datasets/palinatx/mean-temperature-for-countries-by-year-2014-2022
 library(forecast)
